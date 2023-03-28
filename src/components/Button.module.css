@@ -1,0 +1,20 @@
+.button {
+  margin-top: 1rem;
+  color: white;
+  font-size: 1rem;
+  padding: 2.5px;
+  text-align: center;
+  height: 3rem;
+  margin-left: 2rem;
+  width: 40%;
+  background-color: #b71c1c;
+  outline: none;
+  border-radius: 8px;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+.button:hover {
+  /* background-color: #1a237e; */
+  background-color: #263238;
+  color: white;
+}
